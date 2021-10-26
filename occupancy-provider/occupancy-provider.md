@@ -1,7 +1,9 @@
 # occupancy-provider
 This provider supplies all the occupancy information about relevant spaces in the organization. This also has information about sites, buildings, floors and locations(spaces). This doesn't contain the location(space) capacity information. To get the capacity information you need a `space-provider` and a `space-mapping-provider`. Please refer the relevant providers for more information.
 <br>
-<br>
+
+## Configurations 
+Need to provide a master space mapping provider (`space-mapping-provider`). This provider will gives a mapping for the spaces. Configure this in model settings. 
 
 ## Actions 
 <br>

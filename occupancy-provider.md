@@ -20,7 +20,8 @@ Each object contains the followings.
   * `height` - The height of the floor 
 
 <br>
-Example Response
+Example Response:
+
 ```
 {
     "floors": [
@@ -55,7 +56,8 @@ This action returns a field called `spaces`, which contains an array of objects.
    * `y` - y coordinate
 
 <br>
-Example Response
+Example Response:
+
 ```
 {
     "spaces": [
